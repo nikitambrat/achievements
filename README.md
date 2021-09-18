@@ -1,9 +1,14 @@
 # achievements
 [1.1. РИНЦ.pdf](https://github.com/nikitambrat/achievements/files/7189176/1.1.pdf)
+
 [1.2. РИНЦ.pdf](https://github.com/nikitambrat/achievements/files/7189177/1.2.pdf)
+
 [1.3. РИНЦ.pdf](https://github.com/nikitambrat/achievements/files/7189178/1.3.pdf)
+
 [1.4. РИНЦ.pdf](https://github.com/nikitambrat/achievements/files/7189179/1.4.pdf)
+
 [1.5. РИНЦ.pdf](https://github.com/nikitambrat/achievements/files/7189180/1.5.pdf)
+
 [2.1. Международная.pdf](https://github.com/nikitambrat/achievements/files/7189181/2.1.pdf)
 [2.2. Международная.pdf](https://github.com/nikitambrat/achievements/files/7189182/2.2.pdf)
 [2.3. Международная.pdf](https://github.com/nikitambrat/achievements/files/7189184/2.3.pdf)
